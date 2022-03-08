@@ -54,7 +54,7 @@ module.exports = {
     },
     {
       name: 'Telegram',
-      link: '',
+      link: 'll@lanyzhen.onmicrosoft.com',
     },
   ],
 
